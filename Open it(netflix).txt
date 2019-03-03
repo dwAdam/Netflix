@@ -1,0 +1,16 @@
+Creating an entity between Workbench and STS. (I used JAVA 8, and JDK 8/11)
+Working in the applications.properties, pom.xml.
+
+Please, import my netflix project, and choose the Existing maven project.
+
+First; Im working a mini netflix project.(This is just a practice)
+I'll collect the name of the movies and keep it in the database.
+
+Second; This project will contains much different windows. (redirecting)
+And it will work with sessions.(because of the System restart)
+
+Third; In the end of the project Id like to create a Pop-Up window on every single movie genre,
+and then there would be a link what is redirect to another page.(youtube trailer)
+
+I learn how to use GIT, so I still cannot uploade a project either. (GIT, Git Bash, Cygwin)
+If I know how to use it, I'll give you availability.
